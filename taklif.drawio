@@ -1,0 +1,89 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="p4X8ywsgKcJ3e2HCXRcS">
+    <mxGraphModel dx="1050" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-1" target="Aj5QvIQ-7sbiARNELkzO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-4" target="Aj5QvIQ-7sbiARNELkzO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-4" value="Taklif tayyorlash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-6" target="Aj5QvIQ-7sbiARNELkzO-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-12" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aj5QvIQ-7sbiARNELkzO-8">
+          <mxGeometry x="-0.8165" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-6" target="Aj5QvIQ-7sbiARNELkzO-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-13" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aj5QvIQ-7sbiARNELkzO-9">
+          <mxGeometry x="-0.7507" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-6" value="Taklifni amalga oshirshni tekshirish" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-10" target="Aj5QvIQ-7sbiARNELkzO-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-10" value="Taklif amalga oshirib bo&#39;lmaydi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-14" target="Aj5QvIQ-7sbiARNELkzO-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="330" />
+              <mxPoint x="1320" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-17" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aj5QvIQ-7sbiARNELkzO-15">
+          <mxGeometry x="-0.8313" y="-4" relative="1" as="geometry">
+            <mxPoint x="-2" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-14" target="Aj5QvIQ-7sbiARNELkzO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-23" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aj5QvIQ-7sbiARNELkzO-19">
+          <mxGeometry x="-0.8067" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-14" value="Xodimlar mavjudmi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aj5QvIQ-7sbiARNELkzO-20" target="Aj5QvIQ-7sbiARNELkzO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-20" value="Taklif yaratish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj5QvIQ-7sbiARNELkzO-21" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
