@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="Deqtfak7STLO6I2PCdAs">
+    <mxGraphModel dx="2163" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NEsJ6_tY3QJBN76Q0uXA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="NEsJ6_tY3QJBN76Q0uXA-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="targetPoint" />
+            <mxPoint x="240" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEsJ6_tY3QJBN76Q0uXA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NEsJ6_tY3QJBN76Q0uXA-3" target="NEsJ6_tY3QJBN76Q0uXA-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEsJ6_tY3QJBN76Q0uXA-3" value="Kartani ulash" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEsJ6_tY3QJBN76Q0uXA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEsJ6_tY3QJBN76Q0uXA-5" value="&#xa;3. To‘lovlarni amalga oshirish&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEsJ6_tY3QJBN76Q0uXA-6" value="Bank pul o&#39;tkazmalar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEsJ6_tY3QJBN76Q0uXA-7" value="1. Ro‘yxatdan o‘tish va ilovaga kirish" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEsJ6_tY3QJBN76Q0uXA-8" value="1-Jarayon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="140" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-1" value="2-Jarayon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-2" value="3-Jarayon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eXF8T_Wt_STsrDx4MOJ4-4" target="eXF8T_Wt_STsrDx4MOJ4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-4" value="&lt;br&gt;4. Pul o‘tkazmalari" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-6" value="4-Jarayon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eXF8T_Wt_STsrDx4MOJ4-7" target="eXF8T_Wt_STsrDx4MOJ4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-7" value="5. To‘lov tarixini kuzatish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eXF8T_Wt_STsrDx4MOJ4-10" target="eXF8T_Wt_STsrDx4MOJ4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-10" value="6. Xavfsizlik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-12" value="Jarayon yakunlash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="NEsJ6_tY3QJBN76Q0uXA-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9.999999999999773" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXF8T_Wt_STsrDx4MOJ4-17" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

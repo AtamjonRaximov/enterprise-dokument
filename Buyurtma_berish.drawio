@@ -1,0 +1,226 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="z1xUTJvIRErq1R88J9us">
+    <mxGraphModel dx="2943" dy="2846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-1" target="nPWF5cEXqPtR4mg7J-sP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-2" target="nPWF5cEXqPtR4mg7J-sP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-2" value="Xarid bo‘limi mahsulotga ehtiyoj borligini aniqlaganidan so‘ng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-4" target="nPWF5cEXqPtR4mg7J-sP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-4" value="buyurtma berish sayti (Firefox) ochilishi kerak." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-6" target="nPWF5cEXqPtR4mg7J-sP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-6" value="mahsulot qidiruvi aniqlanishi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-8" target="nPWF5cEXqPtR4mg7J-sP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-8" value="va bu qidiruv biznes ehtiyojlari hamda talablariga asoslangan holda mahsulot xususiyatlari va tavsiflarini belgilash orqali amalga oshiriladi." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="205" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-10" target="nPWF5cEXqPtR4mg7J-sP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-14" value="Ha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-13">
+          <mxGeometry x="-0.6291" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-10" target="nPWF5cEXqPtR4mg7J-sP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-21" value="Yuq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-16">
+          <mxGeometry x="-0.6218" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-10" value="Agar belgilangan mahsulot bo‘yicha qidiruv muvaffaqiyatsiz" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="200" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-12" target="nPWF5cEXqPtR4mg7J-sP-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="520" />
+              <mxPoint x="3820" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-12" value="&amp;nbsp;sayt yopiladi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-15" target="nPWF5cEXqPtR4mg7J-sP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-15" value="mahsulot va miqdori tanlanadi va mahsulot savatga qo‘shiladi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-17" target="nPWF5cEXqPtR4mg7J-sP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1475" y="-30" />
+              <mxPoint x="800" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-20" value="HA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-19">
+          <mxGeometry x="-0.9494" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-17" target="nPWF5cEXqPtR4mg7J-sP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-24" value="Yuq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-23">
+          <mxGeometry x="-0.7248" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-17" value="yana boshqa mahsulotlar qo&#39;shasizmi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="15" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-22" target="nPWF5cEXqPtR4mg7J-sP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-22" value="xaridor savatni ko‘zdan kechiradi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-25" target="nPWF5cEXqPtR4mg7J-sP-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-29" value="Yetarli bo&#39;lmasa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-28">
+          <mxGeometry x="-0.5511" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-25" target="nPWF5cEXqPtR4mg7J-sP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-32" value="Yetarli" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-31">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-25" value="byudjetini tekshiradi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1635" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1675" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-27" value="savat qayta ko‘rib chiqiladi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-30" target="nPWF5cEXqPtR4mg7J-sP-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-30" value="xaridor kassaga o‘tadi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-35" target="nPWF5cEXqPtR4mg7J-sP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-39" value="Ha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-38">
+          <mxGeometry x="-0.3414" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-35" target="nPWF5cEXqPtR4mg7J-sP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-42" value="Yuq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPWF5cEXqPtR4mg7J-sP-41">
+          <mxGeometry x="-0.5473" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-35" value="u allaqachon saytga ro‘yxatdan o‘tgan bo‘lsa" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="195" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-37" target="nPWF5cEXqPtR4mg7J-sP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-37" value="login qilinadi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2285" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2115" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-40" value="u avval saytga ro‘yxatdan o‘tishi va login qilishi kerak bo‘ladi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2055" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-43" target="nPWF5cEXqPtR4mg7J-sP-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-43" value="yetkazib berish manzili tasdiqlanadi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2485" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-45" value="xaridor to‘lov usulini tanlashi kerak" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-53" target="nPWF5cEXqPtR4mg7J-sP-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-53" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="2861.25" y="81" width="198.75" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-55" target="nPWF5cEXqPtR4mg7J-sP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-55" value="bank o‘tkazmasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-57" target="nPWF5cEXqPtR4mg7J-sP-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-57" value="kredit karta orqali to‘lov" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-58" value="kredit-faktura bo‘lishi mumkin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-45" target="nPWF5cEXqPtR4mg7J-sP-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-67" target="nPWF5cEXqPtR4mg7J-sP-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-67" value="To‘lov usuli tanlangach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-69" target="nPWF5cEXqPtR4mg7J-sP-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-69" value="to‘lov amalga oshiriladi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPWF5cEXqPtR4mg7J-sP-71" target="nPWF5cEXqPtR4mg7J-sP-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-71" value="to‘lov tasdiqlangandan so‘ng, xaridor saytni tark etadi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPWF5cEXqPtR4mg7J-sP-73" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="226" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

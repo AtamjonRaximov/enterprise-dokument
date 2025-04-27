@@ -1,0 +1,177 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="ew7a8zYA6CL3mkc5C496">
+    <mxGraphModel dx="2289" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-1" target="-QfzIp26i4hJLJvcmm0U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-2" target="-QfzIp26i4hJLJvcmm0U-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-2" value="Loyiha buyurtmasi kelib tushgach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-4" target="-QfzIp26i4hJLJvcmm0U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-4" value="Boshqaruv (Controlling) bo‘limi loyiha bo‘yicha rejalashtirish ishlarini boshlaydi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="285" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-6" value="rejalashtirish loyiha haqidagi ma&#39;lumotlar, biznes talablari, ehtiyojlar va resurslarga asoslanadi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="285" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-10" target="-QfzIp26i4hJLJvcmm0U-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-10" value="boshqaruvchi loyiha uchun budjet olishga harakat qiladi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1478.75" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-12" target="-QfzIp26i4hJLJvcmm0U-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-12" value="Budjetni chiqarish uchun ariza (ABR) orqali budjet so‘rovi yuboradi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1678.75" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-14" target="-QfzIp26i4hJLJvcmm0U-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1949" y="190" />
+              <mxPoint x="785" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-17" value="Yuq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-QfzIp26i4hJLJvcmm0U-16">
+          <mxGeometry x="-0.9606" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-14" target="-QfzIp26i4hJLJvcmm0U-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-20" value="Ha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-QfzIp26i4hJLJvcmm0U-19">
+          <mxGeometry x="-0.4869" y="-4" relative="1" as="geometry">
+            <mxPoint x="12" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-14" value="budjet tasdiqlandimi tekshirladi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1898.75" y="270" width="101.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-18" target="-QfzIp26i4hJLJvcmm0U-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-18" value="loyiha ma&#39;lumotlarini SAP tizimida ro‘yxatdan o‘tkazadi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2070.625" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-21" target="-QfzIp26i4hJLJvcmm0U-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-21" value="u loyiha jarayonini SAP tizimida boshqaradi va kuzatib boradi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2270.625" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-23" target="-QfzIp26i4hJLJvcmm0U-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-23" value="Shu bosqichda budjet oshib ketishi (overdraft) xavfi yuzaga kelishi mumkin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2470.63" y="285" width="129.38" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-25" target="-QfzIp26i4hJLJvcmm0U-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-31" value="Yuq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-QfzIp26i4hJLJvcmm0U-30">
+          <mxGeometry x="-0.468" y="1" relative="1" as="geometry">
+            <mxPoint x="11" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-25" value="budjet oshib ketdimi" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-25" target="-QfzIp26i4hJLJvcmm0U-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250.585" y="373.235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2790" y="440" />
+              <mxPoint x="1540" y="440" />
+              <mxPoint x="1540" y="380" />
+              <mxPoint x="1539" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-28" value="Ha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-QfzIp26i4hJLJvcmm0U-27">
+          <mxGeometry x="-0.9714" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-29" target="-QfzIp26i4hJLJvcmm0U-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-29" value="loyiha yopiladi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-32" target="-QfzIp26i4hJLJvcmm0U-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-32" value="jarayon muvaffaqiyatli amalga oshirildi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-34" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-36" target="-QfzIp26i4hJLJvcmm0U-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-36" target="-QfzIp26i4hJLJvcmm0U-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-36" target="-QfzIp26i4hJLJvcmm0U-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-36" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-6" target="-QfzIp26i4hJLJvcmm0U-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-38" value="budjet rejasini aniqlashi" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1350" y="400" />
+              <mxPoint x="1370" y="400" />
+              <mxPoint x="1370" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-41" value="ichki va tashqi xarajatlarni bo‘lim budjeti asosida belgilashi kerak" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-44" target="-QfzIp26i4hJLJvcmm0U-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-44" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-50" value="&lt;span style=&quot;&quot;&gt;MTP hujjatiga asoslanib&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-QfzIp26i4hJLJvcmm0U-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-QfzIp26i4hJLJvcmm0U-50" target="-QfzIp26i4hJLJvcmm0U-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

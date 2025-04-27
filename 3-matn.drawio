@@ -1,0 +1,116 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="3JSfVPCYZ0P0djPwHlSs">
+    <mxGraphModel dx="1585" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-1" target="SYngn9hxTnbKJMMxeORJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-2" target="SYngn9hxTnbKJMMxeORJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-2" value="Hr menejer boshliqdan ishga olish uchun ariza oladi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-4" target="SYngn9hxTnbKJMMxeORJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-4" value="VAkansiyani e&#39;lon qilish va rezyumeni to&#39;plash" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-6" target="SYngn9hxTnbKJMMxeORJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-6" value="suxbatni o&#39;tkazish" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-8" target="SYngn9hxTnbKJMMxeORJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-8" value="Tafsiyalaarni tekshirish" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-10" target="SYngn9hxTnbKJMMxeORJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-10" value="mexnat shartnomasini rasmiylashtirish" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-12" target="SYngn9hxTnbKJMMxeORJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-12" value="Kirish instruktisyasi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-14" target="SYngn9hxTnbKJMMxeORJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-14" value="ish boshi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-16" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-20" target="SYngn9hxTnbKJMMxeORJ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-20" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-24" target="SYngn9hxTnbKJMMxeORJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="780.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-24" value="VAkansiyani e&#39;lon qilish va rezyumeni to&#39;plash" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-26" target="SYngn9hxTnbKJMMxeORJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-26" value="suxbatni o&#39;tkazish" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-28" target="SYngn9hxTnbKJMMxeORJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-28" value="Tafsiyalarni tekshirish avtomatiski AI ga ulab qo&#39;ysak u tekshirib ko&#39;radi nimalarga kamchiligi bor" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="655" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-30" target="SYngn9hxTnbKJMMxeORJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-30" value="mexnat shartnomasini rasmiylashtirish" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-32" target="SYngn9hxTnbKJMMxeORJ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-32" value="Kirish instruktisyasi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYngn9hxTnbKJMMxeORJ-34" target="SYngn9hxTnbKJMMxeORJ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-34" value="ish boshi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-35" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYngn9hxTnbKJMMxeORJ-42" value="avtomatichiski kanlarga yoki&amp;nbsp; bitta&lt;div&gt;&amp;nbsp;shablon yaratib qo&#39;yib&amp;nbsp;&lt;div&gt;ish paydo bo&#39;lsa ichidagini almashtirib e&#39;lon&lt;/div&gt;&lt;div&gt;&amp;nbsp;berib yuborsa tezroq jarayon bo&#39;ladi&lt;div&gt;&lt;br style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="780" width="250" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
