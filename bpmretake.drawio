@@ -1,0 +1,486 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="tIeu17EV2aMLL-WfEOsg">
+    <mxGraphModel dx="1084" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EKk44QeDYjoESGu59DCM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-1" target="EKk44QeDYjoESGu59DCM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-2" value="&lt;span style=&quot;font-family: Verdana, sans-serif;&quot;&gt;Mijozlar PrecisionWood Ltd. bilan telefon, elektron pochta yoki shaxsan&lt;br&gt;tashrif orqali bog‘lanib, buyurtma asosida mebel tayyorlashga qiziqish&lt;br&gt;bildiradilar&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-4" target="EKk44QeDYjoESGu59DCM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-4" target="EKk44QeDYjoESGu59DCM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-4" target="EKk44QeDYjoESGu59DCM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-4" target="EKk44QeDYjoESGu59DCM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-4" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=eventInt;symbol=parallelMultiple;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-2" target="EKk44QeDYjoESGu59DCM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-6" target="EKk44QeDYjoESGu59DCM-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-6" value="&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext;&quot;&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Yog‘och turlari va ularning ishlovlari&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="940" y="225" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-9" value="&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext;&quot;&gt;Mavjud mebel turlari (stollar, javonlar, stullar va&lt;br&gt;boshqalar)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="940" y="110" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-10" value="&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext;&quot;&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Standart o‘lchamlar va narxlar&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="937" y="340" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-11" target="EKk44QeDYjoESGu59DCM-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-11" value="&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext;&quot;&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Buyurtmachi dizayn variantlari&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Ular quyidagilarni o‘z ichiga olgan bosma katalog bilan taminlanadilar&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="939" y="460" width="181" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-17" target="EKk44QeDYjoESGu59DCM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-17" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=eventInt;symbol=parallelMultiple;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1180" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-9" target="EKk44QeDYjoESGu59DCM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-10" target="EKk44QeDYjoESGu59DCM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-22" target="EKk44QeDYjoESGu59DCM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-22" value="&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext;&quot;&gt;Buyurtmani joylashtirish&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1275" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-24" target="EKk44QeDYjoESGu59DCM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-24" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Mijozlar buyurtma tafsilotlarini quyidagi usullarda&#xa;yuboradilar&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1470" y="252.5" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-28" target="EKk44QeDYjoESGu59DCM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-28" target="EKk44QeDYjoESGu59DCM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-28" target="EKk44QeDYjoESGu59DCM-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-28" value="&lt;br&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Mijozlar buyurtma tafsilotlarini quyidagi usullarda&lt;br&gt;yuboradilar&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1750" y="270" width="121.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-30" target="EKk44QeDYjoESGu59DCM-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2200" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2140" y="160" />
+              <mxPoint x="2140" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-30" value="Shaxsan" style="whiteSpace=wrap;html=1;verticalAlign=middle;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1750" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-32" target="EKk44QeDYjoESGu59DCM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-32" value="pochta orqali" style="whiteSpace=wrap;html=1;verticalAlign=middle;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1960" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-39" target="EKk44QeDYjoESGu59DCM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-39" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Telefon orqali yoki do‘konda og‘zaki tarzda&lt;br&gt;tafsilotlarni aytib berib&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1735.63" y="450" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-42" target="EKk44QeDYjoESGu59DCM-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000" y="460" as="sourcePoint" />
+            <mxPoint x="2214.0699999999997" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2140" y="490" />
+              <mxPoint x="2140" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-42" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;ularni xodimlar qo‘lda yozib oladi&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;verticalAlign=top;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1980.63" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-44" target="EKk44QeDYjoESGu59DCM-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2524.055" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-44" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Ba’zan mijozlar chizmalar yoki namunaviy suratlarni&lt;br&gt;email orqali yuboradilar&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2230" y="290" width="169.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-52" target="EKk44QeDYjoESGu59DCM-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-52" target="EKk44QeDYjoESGu59DCM-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-52" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2520" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-54" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;Admin yordamchisi buyurtma shaklini qo‘lda&#xa;to‘ldiradi &lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2472.5" y="130" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-56" target="EKk44QeDYjoESGu59DCM-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-56" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;tekshiradi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2615" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-58" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2810" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-54" target="EKk44QeDYjoESGu59DCM-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-61" target="EKk44QeDYjoESGu59DCM-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-61" target="EKk44QeDYjoESGu59DCM-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-61" target="EKk44QeDYjoESGu59DCM-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-61" target="EKk44QeDYjoESGu59DCM-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-61" target="EKk44QeDYjoESGu59DCM-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-61" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2925" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-58" target="EKk44QeDYjoESGu59DCM-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-63" target="EKk44QeDYjoESGu59DCM-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3240" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3180" y="225" />
+              <mxPoint x="3180" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-63" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Mebel turi va o‘lchamlari&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3015" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-65" target="EKk44QeDYjoESGu59DCM-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-65" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Yog‘och tanlovi va ishlov turi&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3020" y="295" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-66" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;Mijozning aloqa va yetkazib berish ma’lumotlari&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3020" y="380" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-67" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;Mijozning aloqa va yetkazib berish ma’lumotlari&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3015" y="80" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-68" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;So‘ralgan yetkazib berish yoki olib ketish sanasi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3020" y="500" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-76" target="EKk44QeDYjoESGu59DCM-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-76" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3230" y="295" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-67" target="EKk44QeDYjoESGu59DCM-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3180" y="120" />
+              <mxPoint x="3180" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3230" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3180" y="420" />
+              <mxPoint x="3180" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-68" target="EKk44QeDYjoESGu59DCM-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3220" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3180" y="530" />
+              <mxPoint x="3180" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-83" target="EKk44QeDYjoESGu59DCM-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-83" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;Buyurtma shaklidan nusxa oladi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3260" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-87" target="EKk44QeDYjoESGu59DCM-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-87" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Asl nusxani “Mijoz buyurtmalari” papkasiga (mijoz&#xa;nomi yoki sana bo‘yicha tartiblangan) joylashtiradi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3240" y="660" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-89" target="EKk44QeDYjoESGu59DCM-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-89" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Nusxani Ustaxona rahbariga topshiradi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3260" y="870.61" width="120" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-91" target="EKk44QeDYjoESGu59DCM-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-91" target="EKk44QeDYjoESGu59DCM-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3018" y="921" />
+              <mxPoint x="3018" y="814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-91" target="EKk44QeDYjoESGu59DCM-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-91" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Ustaxona rahbari buyurtmani quyidagilar bo‘yicha&#xa;baholaydi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3060" y="867.7" width="130" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-95" target="EKk44QeDYjoESGu59DCM-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-95" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Xomashyo mavjudligi (yog‘och, furnitura, ishlov&lt;br&gt;materiallari)&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2840" y="881.88" width="135" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-97" target="EKk44QeDYjoESGu59DCM-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2720" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2780" y="814" />
+              <mxPoint x="2780" y="921" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-97" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Dizayn murakkabligi va amaliyoti&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2850" y="780" width="125" height="68.75" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-98" target="EKk44QeDYjoESGu59DCM-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2700" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2780" y="1024" />
+              <mxPoint x="2780" y="921" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-98" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Joriy ustaxona yuklamasi va ish jadvali&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2845" y="990" width="125" height="68.75" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-101" target="EKk44QeDYjoESGu59DCM-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-101" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Agar zarur materiallar kam yoki mavjud bo‘lmasa&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2600" y="879.85" width="100" height="82.81" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-107" target="EKk44QeDYjoESGu59DCM-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-107" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;rahbar admin yordamchisiga xabar beradi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2410" y="881.88" width="120" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-109" target="EKk44QeDYjoESGu59DCM-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-109" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;u yetkazib beruvchilar bilan bog‘lanib&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2220" y="881.88" width="120" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-111" target="EKk44QeDYjoESGu59DCM-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-111" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;buyurtma beradi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2020" y="891.255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-113" target="EKk44QeDYjoESGu59DCM-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-113" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;buyurtma beradi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1820" y="891.255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-115" target="EKk44QeDYjoESGu59DCM-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-115" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Buyurtmani “Ish navbati”ga qo‘shadi &lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1620" y="881.86" width="120" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-117" target="EKk44QeDYjoESGu59DCM-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-117" value="&lt;br&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt; Mijozga telefon yoki email orqali quyidagilarni&lt;br&gt;tasdiqlash uchun murojaat qiladi&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1410" y="869.7" width="150" height="103.13" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-121" target="EKk44QeDYjoESGu59DCM-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-121" value="&lt;br&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Yakuniy tafsilotlar,&amp;nbsp;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Taxminiy bajarilish sanasi,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Taxminiy bajarilish sanasi&lt;/span&gt;&lt;br style=&quot;mso-special-character:&lt;br/&gt;line-break&quot;&gt;&lt;br&gt;&lt;br style=&quot;mso-special-character:line-break&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1195" y="866.86" width="135" height="108.76" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-123" target="EKk44QeDYjoESGu59DCM-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-123" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Ustaxona rahbari “Material kutmoqda” papkasini&#xa;tekshiradi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="863.1" width="132.5" height="118.14" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-125" target="EKk44QeDYjoESGu59DCM-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-125" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Endi bajarilishi mumkin bo‘lgan buyurtmalar faol&#xa;“Ish navbati”ga o‘tkaziladi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="766.25" y="861.24" width="148.75" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-127" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Duradgor buyurtma shaklini ko‘rib chiqadi va ishlab&#xa;chiqarishni boshlaydi&lt;br style=&quot;mso-special-character:line-break&quot;&gt;&#xa;&lt;br style=&quot;mso-special-character:line-break&quot;&gt;&#xa;&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="555.63" y="871.88" width="164.38" height="98.76" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-130" target="EKk44QeDYjoESGu59DCM-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-130" target="EKk44QeDYjoESGu59DCM-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-130" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="896.26" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-127" target="EKk44QeDYjoESGu59DCM-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-134" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Eslatmalar va o‘lchamlar ko‘pincha qayta yoziladi&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="777.5" width="130" height="71.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-137" target="EKk44QeDYjoESGu59DCM-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-137" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;og‘zaki tasdiqlanadi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="395" y="1021.26" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-139" target="EKk44QeDYjoESGu59DCM-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-139" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Agar ma’lumotlar noaniq bo‘lsa,&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="395" y="1161.26" width="120" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-145" target="EKk44QeDYjoESGu59DCM-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-145" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;ustaxona rahbari yoki mijozdan aniqlashtirish uchun&lt;br&gt;kutib turiladi&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="1301.26" width="135" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-147" target="EKk44QeDYjoESGu59DCM-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-147" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Mebel tayyor bo‘lgach&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="1311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-149" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Buyurtma shakli “bajarildi” deb belgilanadi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="1298.25" width="130" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-151" target="EKk44QeDYjoESGu59DCM-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-151" target="EKk44QeDYjoESGu59DCM-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-151" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="950" y="1315.63" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-149" target="EKk44QeDYjoESGu59DCM-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-155" target="EKk44QeDYjoESGu59DCM-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-155" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;Tayyor mahsulot yetkazib berish &lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1301.32" width="120" height="79.37" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-157" target="EKk44QeDYjoESGu59DCM-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-157" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;olib ketish hududiga o‘tkaziladi&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="915" y="1180.63" width="120" height="79.37" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-159" target="EKk44QeDYjoESGu59DCM-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-159" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Shakl “Tugallangan buyurtmalar” papkasiga&lt;br&gt;hujjatlashtirish uchun joylashtiriladi&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1252.5" y="1301.3100000000002" width="165" height="79.37" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-162" value="&lt;span style=&quot;color: windowtext;&quot; lang=&quot;RU&quot;&gt;Admin yordamchisi mijozga murojaat qiladi&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1311" width="130" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-164" target="EKk44QeDYjoESGu59DCM-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-164" target="EKk44QeDYjoESGu59DCM-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-164" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1316" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-162" target="EKk44QeDYjoESGu59DCM-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-166" target="EKk44QeDYjoESGu59DCM-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-166" value="&lt;br&gt;&lt;span lang=&quot;RU&quot; style=&quot;color: windowtext;&quot;&gt;&amp;nbsp;Yetkazib berish &lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1805" y="1311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-168" target="EKk44QeDYjoESGu59DCM-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-168" value="&#xa;&lt;span lang=&quot;RU&quot; style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot;&gt;olib ketish sanasi va vaqtini tasdiqlash uchun&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1672" y="1160" width="125" height="99.63" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-170" target="EKk44QeDYjoESGu59DCM-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-170" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;Agar to‘lov avval qilinmagan bo‘lsa &lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2005" y="1291.5" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="1" source="EKk44QeDYjoESGu59DCM-173" target="EKk44QeDYjoESGu59DCM-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-173" value="&#xa;&lt;span style=&quot;font-family: Verdana, sans-serif; color: windowtext;&quot; lang=&quot;RU&quot;&gt;uni so‘rash &lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2200" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKk44QeDYjoESGu59DCM-175" value="End" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;rounded=1;labelBackgroundColor=none;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2420" y="1300" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
